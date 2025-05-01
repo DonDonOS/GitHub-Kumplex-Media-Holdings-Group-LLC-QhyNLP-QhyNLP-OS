@@ -108,6 +108,6 @@ QhyNLP OS is licensed under the MIT License.
 
 For support or inquiries, please contact Kumplex Media Holdings Group LLC at: 
 
-Email ✉️ - derrick@derricka20.5cloidhost.com.
+Email ✉️ - derrick@derricka20.5cloudhost.com.
 
 
